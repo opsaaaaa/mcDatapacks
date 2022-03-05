@@ -1,0 +1,24 @@
+{
+  "base": {
+    "potion": "luck"
+  },
+  "ingredient": {
+    "item": "fermented_spider_eye"
+  },
+  "result": {
+    "item": "potion",
+    "data": {
+      "CustomPotionEffects": [
+        {
+          "Id": 27,
+          "Duration": 6000
+        }
+      ],
+      "CustomPotionColor": 5199616,
+      "display": {
+        "Name": "\"Rotten Luck Potion\""
+      }
+    }
+  },
+  "type": "nbtcrafting:brewing"
+}

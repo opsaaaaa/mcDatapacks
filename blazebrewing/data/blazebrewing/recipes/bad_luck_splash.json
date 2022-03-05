@@ -1,0 +1,31 @@
+{
+  "base": {
+    "data": {
+      "CustomPotionEffects": [
+        {
+          "Id": 27
+        }
+      ]
+    },
+    "item": "potion"
+  },
+  "ingredient": {
+    "item": "gunpowder"
+  },
+  "result": {
+    "item": "splash_potion",
+    "data": {
+      "CustomPotionEffects": [
+        {
+          "Id": 27,
+          "Duration": 6000
+        }
+      ],
+      "CustomPotionColor": 5199616,
+      "display": {
+        "Name": "\"Rotten Luck Splash Potion\""
+      }
+    }
+  },
+  "type": "nbtcrafting:brewing"
+}
