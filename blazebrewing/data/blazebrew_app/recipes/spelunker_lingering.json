@@ -1,0 +1,39 @@
+{
+  "base": {
+    "data": {
+      "CustomPotionEffects": [
+        {
+          "Id": 3
+        },
+        {
+          "Id": 15
+        }
+      ]
+    },
+    "item": "splash_potion"
+  },
+  "ingredient": {
+    "item": "dragon_breath"
+  },
+  "result": {
+    "data": {
+      "CustomPotionColor": 15970848,
+      "CustomPotionEffects": [
+        {
+          "Amplifier": 1,
+          "Duration": 7200,
+          "Id": 3
+        },
+        {
+          "Duration": 7200,
+          "Id": 15
+        }
+      ],
+      "display": {
+        "Name": "\"Spelunker Lingering Potion\""
+      }
+    },
+    "item": "lingering_potion"
+  },
+  "type": "nbtcrafting:brewing"
+}
