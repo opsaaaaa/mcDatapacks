@@ -1,0 +1,36 @@
+{
+  "base": {
+    "data": {
+      "require": {
+        "CustomPotionEffects": [
+          {"Id": 9},
+          {"Id": 17}
+        ]
+      }
+    },
+    "item": "potion"
+  },
+  "ingredient": {
+    "item": "gunpowder"
+  },
+  "result": {
+    "data": {
+      "CustomPotionEffects": [
+        {
+          "Id": 9,
+          "Duration": 800
+        },{
+          "Id": 17,
+          "Duration": 800,
+          "Amplifier": 9
+        }
+      ],
+      "CustomPotionColor": 11720,
+      "display": {
+        "Name": "\"Distilled Hunger Splash Potion\""
+      }
+    },
+    "item": "splash_potion"
+  },
+  "type": "nbtcrafting:brewing"
+}

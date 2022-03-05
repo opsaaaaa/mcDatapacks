@@ -1,0 +1,29 @@
+{
+  "base": {
+    "potion": "minecraft:swiftness"
+  },
+  "ingredient": {
+    "item": "raw_gold"
+  },
+  "result": {
+    "data": {
+      "CustomPotionColor": 15970848,
+      "CustomPotionEffects": [
+        {
+          "Amplifier": 1,
+          "Duration": 9600,
+          "Id": 3
+        },
+        {
+          "Duration": 9600,
+          "Id": 15
+        }
+      ],
+      "display": {
+        "Name": "\"Spelunker Potion\""
+      }
+    },
+    "item": "potion"
+  },
+  "type": "nbtcrafting:brewing"
+}

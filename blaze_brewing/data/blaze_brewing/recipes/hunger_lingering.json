@@ -1,0 +1,34 @@
+{
+  "base": {
+    "data": {
+      "CustomPotionEffects": [
+        {"Id": 9},
+        {"Id": 17}
+      ]
+    },
+    "item": "splash_potion"
+  },
+  "ingredient": {
+    "item": "dragon_breath"
+  },
+  "result": {
+    "data": {
+      "CustomPotionEffects": [
+        {
+          "Id": 9,
+          "Duration": 800
+        },{
+          "Id": 17,
+          "Duration": 800,
+          "Amplifier": 9
+        }
+      ],
+      "CustomPotionColor": 11720,
+      "display": {
+        "Name": "\"Distilled Hunger Lingering Potion\""
+      }
+    },
+    "item": "lingering_potion"
+  },
+  "type": "nbtcrafting:brewing"
+}
