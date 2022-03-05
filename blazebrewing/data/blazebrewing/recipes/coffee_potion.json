@@ -1,0 +1,31 @@
+{
+  "base": {
+    "potion": "swiftness"
+  },
+  "ingredient": {
+    "item": "cocoa_beans"
+  },
+  "result": {
+    "item": "potion",
+    "data": {
+      "CustomPotionEffects": [
+        {
+          "Id": 1,
+          "Duration": 9600
+        },{
+          "Id": 8,
+          "Duration": 9600
+        },{
+          "Id": 18,
+        "Duration": 9600
+        }
+      ],
+      "CustomPotionColor": 6247211,
+      "display": {
+        "Name": "\"Coffee\""
+      }
+    }
+  },
+  "type": "nbtcrafting:brewing"
+}
+

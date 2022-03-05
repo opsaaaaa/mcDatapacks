@@ -1,0 +1,24 @@
+{
+  "base": {
+    "item": "potion",
+    "data": {
+      "CustomPotionEffects": [
+        {"Id": 1},
+        {"Id": 8},
+        {"Id": 18}
+      ]
+    }
+  },
+  "ingredient": {
+    "item": "gunpowder"
+  },
+  "result": {
+    "item": "splash_potion",
+    "data": {
+      "Potion": "mundane",
+      "CustomPotionColor": 6247211
+    }
+  },
+  "type": "nbtcrafting:brewing"
+}
+
