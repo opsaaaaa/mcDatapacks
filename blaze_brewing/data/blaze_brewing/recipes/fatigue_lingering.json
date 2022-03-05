@@ -1,0 +1,29 @@
+{
+  "base": {
+    "data": {
+      "CustomPotionEffects": [
+        {"Id": 4}
+      ]
+    },
+    "item": "splash_potion"
+  },
+  "ingredient": {
+    "item": "dragon_breath"
+  },
+  "result": {
+    "data": {
+      "CustomPotionEffects": [
+        {
+          "Id": 4,
+          "Duration": 4800
+        }
+      ],
+      "CustomPotionColor": 7039078,
+      "display": {
+        "Name": "\"Fatigue Lingering Potion\""
+      }
+    },
+    "item": "lingering_potion"
+  },
+  "type": "nbtcrafting:brewing"
+}

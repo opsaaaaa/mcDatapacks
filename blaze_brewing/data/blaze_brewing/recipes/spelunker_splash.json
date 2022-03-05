@@ -1,14 +1,12 @@
 {
   "base": {
     "data": {
-      "CustomPotionEffects": [
-        {
-          "Id": 3
-        },
-        {
-          "Id": 15
-        }
-      ]
+      "require": {
+        "CustomPotionEffects": [
+          {"Id": 3},
+          {"Id": 15}
+        ]
+      }
     },
     "item": "potion"
   },

@@ -1,0 +1,29 @@
+{
+  "base": {
+    "data": {
+      "CustomPotionEffects": [
+        {"Id": 4}
+      ]
+    },
+    "item": "potion"
+  },
+  "ingredient": {
+    "item": "gunpowder"
+  },
+  "result": {
+    "data": {
+      "CustomPotionEffects": [
+        {
+          "Id": 4,
+          "Duration": 4800
+        }
+      ],
+      "CustomPotionColor": 7039078,
+      "display": {
+        "Name": "\"Fatigue Splash Potion\""
+      }
+    },
+    "item": "splash_potion"
+  },
+  "type": "nbtcrafting:brewing"
+}

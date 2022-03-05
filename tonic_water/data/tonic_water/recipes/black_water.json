@@ -1,6 +1,9 @@
 {
   "base": {
-    "item": "potion"
+    "item": "potion",
+    "data": {
+      "Potion": "water"
+    }
   },
   "ingredient": {
     "item": "black_dye"
