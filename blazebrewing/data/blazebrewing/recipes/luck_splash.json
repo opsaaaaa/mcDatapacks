@@ -1,0 +1,15 @@
+{
+  "base": {
+    "potion": "luck"
+  },
+  "ingredient": {
+    "item": "gunpowder"
+  },
+  "result": {
+    "item": "splash_potion",
+    "data": {
+      "Potion": "luck"
+    }
+  },
+  "type": "nbtcrafting:brewing"
+}

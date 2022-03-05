@@ -1,0 +1,12 @@
+{
+  "base": {
+    "potion": "minecraft:awkward"
+  },
+  "ingredient": {
+    "item": "small_dripleaf"
+  },
+  "result": {
+    "potion": "luck"
+  },
+  "type": "nbtcrafting:brewing"
+}
