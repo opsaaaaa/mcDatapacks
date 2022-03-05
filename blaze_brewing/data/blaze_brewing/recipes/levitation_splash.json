@@ -1,0 +1,31 @@
+{
+  "base": {
+    "data": {
+      "require": {
+        "CustomPotionEffects": [
+          {"Id": 25}
+        ]
+      }
+    },
+    "item": "potion"
+  },
+  "ingredient": {
+    "item": "gunpowder"
+  },
+  "result": {
+    "data": {
+      "CustomPotionEffects": [
+        {
+          "Id": 25,
+          "Duration": 200
+        }
+      ],
+      "CustomPotionColor": 12647411,
+      "display": {
+        "Name": "\"Levitation Splash Potion\""
+      }
+    },
+    "item": "splash_potion"
+  },
+  "type": "nbtcrafting:brewing"
+}

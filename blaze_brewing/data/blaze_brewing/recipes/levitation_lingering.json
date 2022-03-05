@@ -1,0 +1,29 @@
+{
+  "base": {
+    "data": {
+      "CustomPotionEffects": [
+        {"Id": 25}
+      ]
+    },
+    "item": "splash_potion"
+  },
+  "ingredient": {
+    "item": "dragon_breath"
+  },
+  "result": {
+    "data": {
+      "CustomPotionEffects": [
+        {
+          "Id": 25,
+          "Duration": 200
+        }
+      ],
+      "CustomPotionColor": 12647411,
+      "display": {
+        "Name": "\"Levitation Lingering Potion\""
+      }
+    },
+    "item": "lingering_potion"
+  },
+  "type": "nbtcrafting:brewing"
+}

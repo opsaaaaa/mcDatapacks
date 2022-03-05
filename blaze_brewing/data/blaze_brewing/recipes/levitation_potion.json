@@ -1,0 +1,24 @@
+{
+  "base": {
+    "potion": "slow_falling"
+  },
+  "ingredient": {
+    "item": "ender_eye"
+  },
+  "result": {
+    "data": {
+      "CustomPotionEffects": [
+        {
+          "Id": 25,
+          "Duration": 200
+        }
+      ],
+      "CustomPotionColor": 12647411,
+      "display": {
+        "Name": "\"Levitation Potion\""
+      }
+    },
+    "item": "potion"
+  },
+  "type": "nbtcrafting:brewing"
+}
