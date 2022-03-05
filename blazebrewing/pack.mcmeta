@@ -1,7 +1,7 @@
 {
   "pack": {
-    "description": "blazebrew_app",
+    "description": "More Unique Potion Recipes",
     "pack_format": 8,
-    "source": "scarpet"
+    "source": "https://github.com/opsaaaaa/mcDatapacks"
   }
 }

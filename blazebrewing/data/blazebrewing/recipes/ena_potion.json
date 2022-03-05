@@ -1,0 +1,32 @@
+{
+  "base": {
+    "potion": "minecraft:awkward"
+  },
+  "ingredient": {
+    "item": "tropical_fish_bucket",
+    "remainder": { 
+      "item": "minecraft:bucket" 
+    }
+  },
+  "result": {
+    "data": {
+      "CustomPotionColor": 2876331,
+      "CustomPotionEffects":[
+        {
+          "Id": 2,
+          "Amplifier": 1,
+          "Duration": 3600
+        },
+        {
+          "Id": 30,
+          "Duration": 3600
+        }
+      ],
+      "display": {
+        "Name": "\"Ena Potion\""
+      }
+    },
+    "item": "potion"
+  },
+  "type": "nbtcrafting:brewing"
+}

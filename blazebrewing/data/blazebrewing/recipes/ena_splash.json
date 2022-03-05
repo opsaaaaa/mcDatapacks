@@ -1,0 +1,39 @@
+{
+  "base": {
+    "data": {
+      "CustomPotionEffects": [
+        {
+          "Id": 2
+        },
+        {
+          "Id": 30
+        }
+      ]
+    },
+    "item": "potion"
+  },
+  "ingredient": {
+    "item": "gunpowder"
+  },
+  "result": {
+    "data": {
+      "CustomPotionColor": 2876331,
+      "CustomPotionEffects":[
+        {
+          "Id": 2,
+          "Amplifier": 1,
+          "Duration": 2400
+        },
+        {
+          "Id": 30,
+          "Duration": 2400
+        }
+      ],
+      "display": {
+        "Name": "\"Ena Splash Potion\""
+      }
+    },
+    "item": "splash_potion"
+  },
+  "type": "nbtcrafting:brewing"
+}
