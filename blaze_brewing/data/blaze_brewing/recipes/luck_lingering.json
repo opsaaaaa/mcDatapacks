@@ -1,7 +1,9 @@
 {
   "base": {
     "item": "splash_potion",
-    "potion": "luck"
+    "data": {
+      "Potion": "luck"
+    }
   },
   "ingredient": {
     "item": "dragon_breath"

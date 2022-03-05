@@ -1,0 +1,22 @@
+{
+  "base": {
+    "potion": "awkward"
+  },
+  "ingredient": {
+    "item": "wither_rose"
+  },
+  "result": {
+    "item": "potion",
+    "data": {
+      "CustomPotionEffects": [{
+        "Id": 20,
+        "Duration": 180
+      }],
+      "CustomPotionColor": 4013373,
+      "display": {
+        "Name": "\"Wither Potion\""
+      }
+    }
+  },
+  "type": "nbtcrafting:brewing"
+}

@@ -1,0 +1,27 @@
+{
+  "base": {
+    "data": {
+      "CustomPotionEffects": [
+        {"Id": 20}
+      ]
+    },
+    "item": "potion"
+  },
+  "ingredient": {
+    "item": "gunpowder"
+  },
+  "result": {
+    "item": "splash_potion",
+    "data": {
+      "CustomPotionEffects": [{
+        "Id": 20,
+        "Duration": 180
+      }],
+      "CustomPotionColor": 4013373,
+      "display": {
+        "Name": "\"Wither Splash Potion\""
+      }
+    }
+  },
+  "type": "nbtcrafting:brewing"
+}
