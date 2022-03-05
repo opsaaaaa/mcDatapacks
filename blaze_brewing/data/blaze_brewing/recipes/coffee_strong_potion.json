@@ -1,0 +1,41 @@
+{
+  "base": {
+    "data": {
+      "CustomPotionEffects": [
+        {"Id": 1},
+        {"Id": 8},
+        {"Id": 18}
+      ]
+    },
+    "item": "potion"
+  },
+  "ingredient": {
+    "item": "glowstone_dust"
+  },
+  "result": {
+    "item": "potion",
+    "data": {
+      "CustomPotionEffects": [
+        {
+          "Amplifier": 1,
+          "Id": 1,
+          "Duration": 6000
+        },{
+          "Amplifier": 1,
+          "Id": 8,
+          "Duration": 6000
+        },{
+          "Amplifier": 1,
+          "Id": 18,
+          "Duration": 6000
+        }
+      ],
+      "CustomPotionColor": 6247211,
+      "display": {
+        "Name": "\"Strong Coffee\""
+      }
+    }
+  },
+  "type": "nbtcrafting:brewing"
+}
+
