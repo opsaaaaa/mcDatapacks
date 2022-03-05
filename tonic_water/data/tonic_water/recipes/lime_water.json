@@ -1,0 +1,17 @@
+{
+  "base": {
+    "potion": "water"
+  },
+  "ingredient": {
+    "item": "lime_dye"
+  },
+  "result": {
+    "item": "potion",
+    "data": {
+      "Potion": "water",
+      "CustomPotionColor": 4325176
+    }
+  },
+  "type": "nbtcrafting:brewing"
+}
+

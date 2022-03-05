@@ -1,0 +1,17 @@
+{
+  "base": {
+    "potion": "water"
+  },
+  "ingredient": {
+    "item": "cyan_dye"
+  },
+  "result": {
+    "item": "potion",
+    "data": {
+      "Potion": "water",
+      "CustomPotionColor": 3246532
+    }
+  },
+  "type": "nbtcrafting:brewing"
+}
+

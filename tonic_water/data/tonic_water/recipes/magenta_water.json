@@ -1,0 +1,17 @@
+{
+  "base": {
+    "potion": "water"
+  },
+  "ingredient": {
+    "item": "magenta_dye"
+  },
+  "result": {
+    "item": "potion",
+    "data": {
+      "Potion": "water",
+      "CustomPotionColor": 16402407
+    }
+  },
+  "type": "nbtcrafting:brewing"
+}
+
