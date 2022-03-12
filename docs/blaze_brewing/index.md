@@ -13,7 +13,7 @@ The blaze brewing datapack requires the nbt crafting mod:
 
 
 ## New Potions
-| r | Name | Ingredients | Effect | Time
+| - | Name | Ingredients | Effect | Time
 --- | --- | --- | --- | --- |
 | 1 | Spelunker Potion      | Sugar, Raw Gold                       | Haste II, Blindness       | 8:00 |
 | 2 | Fatigue Potion        | Sugar, Raw Gold, Fermented Spider Eye | Mining Fatigue            | 4:00 |
