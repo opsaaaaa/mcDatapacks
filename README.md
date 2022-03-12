@@ -1,15 +1,5 @@
-# mcDatapacks
-A collection of minecraft datapacks
+# Collection of Minecraft datapacks
 
 
-
-/give @p minecraft": potion
-
-{
-"CustomPotionEffects": [{
-"Id": 25,
-"Duration": 1200}],
-"CustomPotionColor": 12647411,
-"display": {
-"Name": "\"Levitation Potion\""}
-}
+## Docs
+- [Blaze Brewing](docs/blaze_brewing/index.md)
