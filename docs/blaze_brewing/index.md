@@ -27,7 +27,7 @@ The blaze brewing datapack requires the nbt crafting mod:
 
 
 # Potions Variants
-| r | Name | Splash? | Lingering? | Strengthen? | Extend? | 
+| - | Name | Splash? | Lingering? | Strengthen? | Extend? | 
 --- | --- | --- | --- | --- | --- |
 | 1 | Spelunker Potion      | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: |
 | 2 | Fatigue Potion        | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: |
