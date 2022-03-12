@@ -2,6 +2,7 @@
 
 
 This Minecraft datapack adds nine new unique and interesting potions, similar to the turtle master potion.
+These potions are craftable in the brewing stand.
 
 The blaze brewing datapack requires the nbt crafting mod:
 - [Nbt crafting wiki](https://mcwiki.siphalor.de/nbt-crafting/v2/#home/) 
