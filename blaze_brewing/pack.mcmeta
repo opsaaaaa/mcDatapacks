@@ -2,6 +2,9 @@
   "pack": {
     "description": "More Unique Potion Recipes",
     "pack_format": 8,
-    "source": "https://github.com/opsaaaaa/mcDatapacks"
+    "source": "https://github.com/opsaaaaa/mcDatapacks",
+    "dependencies": {
+      "nbt_crafting": "https://mcwiki.siphalor.de/nbt-crafting/v2/#home/"
+    }
   }
 }
