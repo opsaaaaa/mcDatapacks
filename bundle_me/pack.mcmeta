@@ -1,1 +1,7 @@
-{"pack":{"pack_format":1,"description":"Bundle Me, a bundle of bundle recipies"}}
+{
+  "pack": {
+    "description": "A bundle of bundle recipies.",
+    "pack_format": 10,
+    "source": "https://github.com/opsaaaaa/mcDatapacks"
+  }
+}
