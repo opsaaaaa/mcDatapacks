@@ -1,0 +1,36 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_cloth": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "bundle_me:cloth"
+                    }
+                ]
+            }
+        },
+        "has_string": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:string"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_cloth",
+	    "has_string"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "bundle_me:bundle_cloth"
+        ]
+    }
+}
